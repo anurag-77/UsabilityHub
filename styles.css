@@ -287,6 +287,24 @@ header{
     transition: 0.2s ease-out;
 }
 
+.second-image {
+    background:linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)), url(/assets/asset\ 37.jpeg);
+     background-size: 100%;
+        
+}
+
+.third-image {
+    background:linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)), url(/assets/asset\ 38.jpeg); 
+    background-size: 100%;
+}
+
+.forth-image {
+    background:linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)), url(/assets/asset\ 39.jpeg) ; 
+    background-size: 100%;
+}
+
+
+
 .examples-card:hover {
     box-shadow: 0 0 10px #888;
 }
